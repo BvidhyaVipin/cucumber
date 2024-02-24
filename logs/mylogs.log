@@ -1,0 +1,235 @@
+20240222 23:22:05 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:22:06 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:22:12 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:22:15 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:22:15 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:24:08 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:24:09 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:24:15 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:24:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:24:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:31:21 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:31:21 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:31:27 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:31:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:31:30 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:31:31 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:31:34 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:33:41 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:33:42 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:33:49 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:33:52 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:33:52 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:33:53 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:34:01 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:38:41 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:38:41 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:38:42 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:40:04 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:40:04 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:40:05 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:40:05 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240222 23:41:47 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:41:47 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:41:48 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:41:52 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:41:53 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:41:56 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:42:02 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:42:02 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:42:03 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:42:14 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:42:16 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:48:58 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:48:59 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:48:59 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:49:02 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:49:02 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:49:10 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:49:13 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:49:13 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:49:14 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:49:17 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:49:20 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:49:21 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240222 23:49:21 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:49:23 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240222 23:52:13 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:52:13 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:52:14 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:53:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:53:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:53:20 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:54:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:54:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:54:04 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:54:11 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:56:58 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:56:59 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240222 23:56:59 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240222 23:57:07 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240222 23:57:08 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240222 23:57:09 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240222 23:58:34 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:58:35 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240222 23:58:35 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240222 23:58:37 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:00:49 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:00:49 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:00:50 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:00:52 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:02:14 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:02:14 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:02:15 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:02:17 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:05:24 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:05:24 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:05:25 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:05:25 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 00:06:33 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:06:33 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:06:34 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:06:37 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:06:37 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:06:42 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:06:50 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:06:51 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:06:51 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240223 00:06:53 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:06:58 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240223 00:06:59 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240223 00:07:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:07:04 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:07:05 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:07:06 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:07:09 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:07:09 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:07:10 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:07:10 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 00:09:10 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:09:10 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:09:11 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:09:13 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:09:58 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:09:59 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:09:59 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:10:02 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:10:05 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 00:11:24 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:11:25 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:11:26 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:11:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:11:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:11:35 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:11:37 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:11:38 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:11:38 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240223 00:11:45 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:11:45 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240223 00:11:46 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240223 00:11:51 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:11:52 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:11:52 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:11:54 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:11:57 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 00:12:00 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:12:01 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:12:01 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:12:01 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 00:15:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:15:04 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:15:06 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:07 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:15:14 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:15:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:15:18 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240223 00:15:25 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:15:26 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240223 00:15:27 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240223 00:15:31 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:31 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:15:32 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:33 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:15:37 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 00:15:39 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:15:39 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:15:40 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:15:40 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 00:18:50 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:18:50 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:18:51 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:18:54 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:18:54 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:19:02 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:19:04 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:19:05 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:19:06 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240223 00:19:13 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:19:15 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240223 00:19:16 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240223 00:19:20 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:19:21 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 00:19:21 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:19:23 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 00:19:26 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 00:19:28 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 00:19:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 00:19:30 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 00:19:30 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 10:47:56 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:47:57 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 10:47:58 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 10:47:59 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:48:00 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 10:48:07 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 10:48:09 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:48:10 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 10:48:10 INFO  [main] Base.BasePage BasePage.java47 - remember mebutton is clicked
+20240223 10:48:18 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 10:48:18 INFO  [main] Base.BasePage BasePage.java47 - user dropdownbutton is clicked
+20240223 10:48:18 INFO  [main] Base.BasePage BasePage.java47 - logoutbutton is clicked
+20240223 10:48:22 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:48:22 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 10:48:22 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:48:24 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 10:48:27 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 10:48:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:48:29 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240223 10:48:30 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240223 10:48:30 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from wrong username and password
+20240223 10:50:48 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:50:48 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 10:50:48 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:50:50 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 10:50:53 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 10:52:56 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:52:56 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 10:52:56 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:52:58 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 10:53:01 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 10:54:18 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:54:19 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 10:54:19 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:54:21 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 10:54:24 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 10:55:32 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:55:33 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 10:55:33 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 10:55:35 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 10:55:38 INFO  [main] Base.BasePage BasePage.java59 - text is extracted from email send confirmation
+20240223 11:01:03 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 11:01:04 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240223 11:01:04 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240223 11:01:06 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240223 11:01:09 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240224 13:18:17 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
+20240224 13:19:22 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
+20240224 13:21:44 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
+20240224 13:25:17 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
+20240224 13:28:54 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java59 - https://login.salesforce.com/is entered
+20240224 13:28:54 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240224 13:28:55 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240224 13:28:56 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240224 13:28:56 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
