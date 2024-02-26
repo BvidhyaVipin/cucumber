@@ -233,3 +233,62 @@
 20240224 13:28:55 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
 20240224 13:28:56 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
 20240224 13:28:56 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java65 - current browser closed
+20240225 21:10:48 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java64 - https://login.salesforce.com/is entered
+20240225 21:10:49 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:10:50 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240225 21:10:59 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240225 21:10:59 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java70 - current browser closed
+20240225 21:11:47 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java64 - https://login.salesforce.com/is entered
+20240225 21:11:48 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:11:49 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240225 21:11:50 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240225 21:11:51 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java100 - went wrong when capturing the screen
+20240225 21:11:51 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java70 - current browser closed
+20240225 21:13:29 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java64 - https://login.salesforce.com/is entered
+20240225 21:13:30 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:13:31 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240225 21:13:32 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240225 21:13:32 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java95 - captured the element screenshot
+20240225 21:13:32 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java70 - current browser closed
+20240225 21:21:36 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:21:36 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:21:37 INFO  [main] Base.BasePage BasePage.java36 - data is entered in password field textbox
+20240225 21:21:38 INFO  [main] Base.BasePage BasePage.java47 - login buttonbutton is clicked
+20240225 21:21:38 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java99 - captured the element screenshot
+20240225 21:21:39 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed
+20240225 21:31:18 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:31:19 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:31:19 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240225 21:31:19 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:31:23 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240225 21:31:26 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240225 21:31:26 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed
+20240225 21:32:12 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:32:13 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:32:13 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240225 21:32:14 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:32:14 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240225 21:32:17 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240225 21:32:18 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed
+20240225 21:36:58 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:36:58 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:36:59 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240225 21:37:00 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:37:00 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240225 21:37:03 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240225 21:37:04 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed
+20240225 21:37:34 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:37:35 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:37:36 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240225 21:37:36 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:37:38 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240225 21:37:41 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240225 21:37:42 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed
+20240225 21:38:17 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java66 - https://login.salesforce.com/is entered
+20240225 21:38:17 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:38:18 INFO  [main] Base.BasePage BasePage.java47 - forgot passwordbutton is clicked
+20240225 21:38:18 INFO  [main] Base.BasePage BasePage.java36 - data is entered in Username textbox textbox
+20240225 21:38:19 INFO  [main] Base.BasePage BasePage.java47 - continuebutton is clicked
+20240225 21:38:22 INFO  [main] Base.BasePage BasePage.java74 - page title is extracted
+20240225 21:38:22 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java99 - captured the element screenshot
+20240225 21:38:22 INFO  [main] StepDef.SalesForceStepDef SalesForceStepDef.java72 - current browser closed

@@ -1,8 +1,8 @@
 Feature: checking login functionality
-
+#String url=PropertiesUtility.readDataFromPropertyFile(Constants.APPLICATION_PROPERTIES, "username");
 Background:
 Given the url 
-@first
+
 Scenario: valid username and empty password
 When user on "loginpage"
 When enter username as "vidhya@tekarch.com"

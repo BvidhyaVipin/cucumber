@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Feb 24 13:28:50 EST 2024</td>
+<td>Started on:</td><td>Sun Feb 25 21:38:13 EST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>6 seconds (6009 ms)</td>
+<tr><td>Total time:</td><td>9 seconds (9018 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,8 +67,8 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-passed'>
-<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td><b>Attribute(s)</b></td>
 <td width="30%"><b>Exception</b></td>
@@ -76,9 +76,28 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.SalesForce.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.SalesForce.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "valid username and empty password", "checking login functionality"</td>
-<td></td>
-<td>4</td>
+<td title='com.SalesForce.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.SalesForce.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "forgot password", "checking login functionality"</td>
+<td><div><pre>java.lang.AssertionError: expected [Check Your Email | Salesforce] but found [Forgot Your Password | Salesforce]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1577)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at com.SalesForce.StepDef.SalesForceStepDef.should_see_the_password_reset_message(SalesForceStepDef.java:197)
+	at ✽.should see the password reset message(file:///C:/Users/VIBIN/eclipse-workspace/SalesForceCucumberFrameWork/src/test/resources/features/SalesForceLogin.feature:42)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1397338694", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1397338694'><pre>java.lang.AssertionError: expected [Check Your Email | Salesforce] but found [Forgot Your Password | Salesforce]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1577)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+	at org.testng.Assert.assertEquals(Assert.java:131)
+	at org.testng.Assert.assertEquals(Assert.java:655)
+	at org.testng.Assert.assertEquals(Assert.java:665)
+	at com.SalesForce.StepDef.SalesForceStepDef.should_see_the_password_reset_message(SalesForceStepDef.java:197)
+	at ✽.should see the password reset message(file:///C:/Users/VIBIN/eclipse-workspace/SalesForceCucumberFrameWork/src/test/resources/features/SalesForceLogin.feature:42)
+</pre></div></td>
+<td>7</td>
 <td>com.SalesForce.Runner.Runner@206a70ef</td></tr>
 </table><p>
 </body>

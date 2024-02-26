@@ -2,9 +2,15 @@ package com.SalesForce.StepDef;
 
 import static org.testng.Assert.assertEquals;
 
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -17,6 +23,7 @@ import com.SalesForce.pages.ForgotpasswordPage.CheckyourEmailPage;
 import com.SalesForce.pages.ForgotpasswordPage.ForgotPasswordPage;
 import com.SalesForce.pages.Login.SalesForceLoginPage;
 import com.SalesForce.pages.home.SalesforceHomepage;
+import com.google.common.io.Files;
 
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
@@ -67,7 +74,6 @@ public class SalesForceStepDef {
 	
 	@BeforeAll
 	public static void setUpBeforeAllScenarios() {
-		System.out.println("before all");
 		log=logObject.getLogger();
 	}
 	@Before
@@ -83,6 +89,22 @@ public class SalesForceStepDef {
 	@AfterStep
 	public void after_each_step(Scenario sc) {
 		if(sc.isFailed()){
+			TakesScreenshot screencapture=(TakesScreenshot)driver;
+			File src=screencapture.getScreenshotAs(OutputType.FILE);
+			String filename=new SimpleDateFormat("yyyy_MM_dd_HH_mm_ss").format(new Date());
+			String path=Constants.SCREENSHOTS_DIRECTORY_PATH+filename+".png";
+			File destination=new File(path);
+			try {
+				Files.copy(src, destination);
+				log.info("captured the element screenshot");
+				//extent_report.logTestInfo("captured the element screenshot");
+			}
+			catch(IOException e){
+				e.printStackTrace();
+			log.info("went wrong when capturing the screen");
+				//extent_report.logTestFailed("captured the screen");
+				
+			}
 			
 		}
 	}
@@ -172,10 +194,7 @@ public void click_continue_button() throws InterruptedException {
 public void should_see_the_password_reset_message() throws InterruptedException {
 	String actmes=checkEmail.getTitleofPage();
 	String expPage="Check Your Email | Salesforce";
-	assertEquals(actmes,expPage);
-
-  
-    
+	assertEquals(actmes,expPage);    
 }
 	}
 
